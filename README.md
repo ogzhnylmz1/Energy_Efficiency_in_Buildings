@@ -1,4 +1,4 @@
-# Energy_Efficiency_in_Buildings
+# Energy Efficiency in Buildings
 Energy Efficiency Optimization and Predictive Modeling in Buildings Using Multiple Linear Regression in SPSS.
 
 # Energy Efficiency & Predictive Modeling: Building Heating Load Analysis
